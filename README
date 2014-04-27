@@ -1,0 +1,13 @@
+shortstop  0.3
+===================
+
+This package provides a tiny program to generate a fast overview of open files
+and sockets and additionally a memory dumping function for Linux 2.6+. 
+
+It works on x64 and i386. You just need to recompile a static version for every platform.
+
+Regards,
+Joerg
+
+Old version:
+https://sourceforge.net/projects/shortstop/
